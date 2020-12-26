@@ -1,0 +1,19 @@
+target = randomNumber(from 1 to 65,534)
+
+while targetNotFound is true{
+
+	print & input "Enter a number: "
+	num = input by the user
+
+	if num < target:
+		print "your guess was too low!"
+	else if num > target:
+		print "your guess was too high!"
+	else:
+		print "you guessed the right number!"
+		targetNotFound = false
+	
+}
+
+
+print "you win, program ends now"

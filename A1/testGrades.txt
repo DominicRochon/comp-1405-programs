@@ -1,0 +1,36 @@
+# test 1
+# pass check if the student passes all assesments
+81.3
+84
+78
+90.09
+65
+56.67
+# test 2
+# fail check if the student fails all assesments
+23
+45.3
+11
+9.65
+27
+# test 3
+# fail check if the student fails scheme 1 (assaignment + tutorial)
+46
+22.43
+89
+98.7
+78
+# test 4
+# fail check if the student fails scheme 2 (midTerm + final exam)
+87.23
+64.5
+60.2
+46
+34
+# test 5
+# fail check if the student passes both schemes but has an overall average below 50
+50
+50.2
+24
+50
+50
